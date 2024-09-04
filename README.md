@@ -1,2 +1,2 @@
 # hello-world
-My first repository
+Good and bad are a matter of perspectives
